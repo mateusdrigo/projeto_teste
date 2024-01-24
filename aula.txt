@@ -1,13 +1,11 @@
 Boa noite!
 
-Fiz algumas alterações neste arquivo.
+Fiz mais algumas alterações neste arquivo :)
 
-meu primeiro arquivo modificado no git
+Projeto A 
 
-adicionando mais coisas no meu arquivo
+Projeto B
 
-adicionei
-
-parei
+Projeto C
 
 ...
